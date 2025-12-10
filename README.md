@@ -76,4 +76,15 @@ Staging table for searching against existing images.
 Then open:
 `http://localhost:8501`
 
-Project Structure
+## Project Structure
+<img width="495" height="140" alt="image" src="https://github.com/user-attachments/assets/f457628f-0831-4acc-ad2e-f3be9c948a04" />
+
+## Use Cases
+- Visual product search
+- Image-to-image similarity
+- Smart catalog browsing
+- Digital asset management
+- Retail, eCommerce, logistics, manufacturing
+
+## License
+MIT License (or update based on your preference)
