@@ -77,7 +77,7 @@ Then open:
 `http://localhost:8501`
 
 ## Project Structure
-<img width="495" height="140" alt="image" src="https://github.com/user-attachments/assets/f457628f-0831-4acc-ad2e-f3be9c948a04" />
+<img width="491" height="115" alt="image" src="https://github.com/user-attachments/assets/45668e76-7ddd-49ca-8ea8-2a9adc916802" />
 
 ## Use Cases
 - Visual product search
