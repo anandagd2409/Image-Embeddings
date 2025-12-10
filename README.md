@@ -8,7 +8,7 @@ The application is built using **Streamlit**, **Python**, and **cx_Oracle**, and
 ##  External Embeddings (Bring Your Own Model)
 - Uses ONNX ResNet-50 to generate 2048-dimensional embeddings.
 - Runs inference outside Oracle (fully decoupled).
-## Oracle 23ai Vector Search
+## Oracle 26ai Vector Search
 - Stores vectors using Oracle’s native VECTOR datatype.
 - Performs COSINE similarity via VECTOR_DISTANCE().
 ## Full Streamlit App
